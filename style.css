@@ -57,7 +57,7 @@ BOX {
     color: white;
     top: 260px;
     font-size: 30px;
-    left: 500px;
+    left: 450px;
     border-radius: 10px;
     border: 3px solid #ffffff;
 }
@@ -68,7 +68,7 @@ kit {
     color: white;
     top: 310px;
     font-size: 40px;
-    left: 500px;
+    left: 450px;
 }
 
 kitdesc {
@@ -76,7 +76,7 @@ kitdesc {
     color: white;
     top: 365px;
     font-size: 20px;
-    left: 500px;
+    left: 450px;
     font-family: 'Ubuntu Condensed', sans-serif;
     width: 500px
     
@@ -87,7 +87,7 @@ kitdesc2 {
     color: white;
     top: 502px;
     font-size: 15px;
-    left: 500px;
+    left: 450px;
     font-family: 'Ubuntu Condensed', sans-serif;
     width: 500px;
 }
